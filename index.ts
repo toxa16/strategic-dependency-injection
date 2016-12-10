@@ -1,3 +1,3 @@
-import {inject} from './lib/inject';
-import {Injectable} from './lib/injectable';
-import {InjectableFactory} from './lib/injectable-factory';
+export {inject} from './lib/inject';
+export {Injectable} from './lib/injectable';
+export {InjectableFactory} from './lib/injectable-factory';
