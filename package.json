@@ -1,0 +1,18 @@
+{
+  "name": "strategic-dependency-injection",
+  "version": "0.0.1",
+  "description": "Dependency injection from Strategic.js framework.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": {
+    "name": "Anton Bahurinsky"
+  },
+  "engines": {
+    "node": ">= 6.9.2"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/core-js": "^0.9.35",
+    "reflect-metadata": "^0.1.8"
+  }
+}
